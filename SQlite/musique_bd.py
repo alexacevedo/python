@@ -1,5 +1,5 @@
 # coding: utf8
-# SQLite whit Python
+# SQLite with Python
 
 """
 programme: musique_bd.py
